@@ -1,8 +1,6 @@
 import java.util.Scanner;
 class Calculator {
     private static Calculator instance = new Calculator();
-    ;
-
     private Calculator() {
     }
 
